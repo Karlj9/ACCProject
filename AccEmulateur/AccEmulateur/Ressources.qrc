@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/IMAGES">
+        <file>Images/LMT-Logo-Couleur-V1.png</file>
+        <file>Images/profilepicturev2.jpg</file>
+        <file>Images/led-off-100100.png</file>
+        <file>Images/led-on-100100.png</file>
+    </qresource>
+</RCC>
