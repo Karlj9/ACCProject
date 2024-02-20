@@ -1,0 +1,1 @@
+This project was made with QT Creator that why you will find QT libraries
